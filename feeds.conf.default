@@ -1,4 +1,6 @@
-src-git packages https://github.com/lazyoop/sdf8057-ipq6000-packages.git;2023
-src-git luci https://github.com/lazyoop/sdf8057-ipq6000-luci.git;2023
+src-git packages https://github.com/Toufy0932/packages-ipq6000.git;2023
+src-git luci https://github.com/Toufy0932/luci-ipq6000.git;2023
 src-git routing https://github.com/openwrt/routing.git;openwrt-21.02
 src-git telephony https://github.com/openwrt/telephony.git;openwrt-21.02
+src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages.git;main
+src-git passwall2 https://github.com/Toufy0932/openwrt-passwall2.git;main
